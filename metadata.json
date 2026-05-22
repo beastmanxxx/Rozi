@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Rozi - AI Voice Assistant",
+  "description": "A sassy, witty, and intelligent Indian female AI voice assistant who can open apps, search, and chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
